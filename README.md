@@ -6,6 +6,6 @@ Installation: <br>
 `cargo build --release` <br>
 `cd target/release` <br>
 
-Usage:
+Usage: <br>
 `IOCScanner.exe --help` <br>
 `IOCScanner.exe -p <Folder/File Path>` <br>
